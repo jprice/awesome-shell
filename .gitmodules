@@ -13,3 +13,15 @@
 [submodule "awesome-sysadmin"]
 	path = awesome-sysadmin
 	url = git@github.com:kahun/awesome-sysadmin.git
+[submodule "awesome"]
+	path = awesome
+	url = git@github.com:sindresorhus/awesome.git
+[submodule "awesome-devenv"]
+	path = awesome-devenv
+	url = git@github.com:jondot/awesome-devenv.git
+[submodule "awesome-zsh-plugins"]
+	path = awesome-zsh-plugins
+	url = git@github.com:unixorn/awesome-zsh-plugins.git
+[submodule "beautiful-docs"]
+	path = beautiful-docs
+	url = git@github.com:PharkMillups/beautiful-docs.git
