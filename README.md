@@ -1,3 +1,5 @@
+This is my for of many Awesome repos. It is just for easier access. Fork if you wish.
+
 # Awesome Shell
 A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. This awesome collection is also available on [Unix-Shell.ZEEF.com](https://unix-shell.zeef.com/caleb.xu).
 - [Awesome Bash](#awesome-bash)

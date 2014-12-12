@@ -1,0 +1,15 @@
+[submodule "awesome-dotfiles"]
+	path = awesome-dotfiles
+	url = git@github.com:jprice/awesome-dotfiles.git
+[submodule "awesome-awesomeness"]
+	path = awesome-awesomeness
+	url = git@github.com:bayandin/awesome-awesomeness.git
+[submodule "awesome-awesome"]
+	path = awesome-awesome
+	url = git@github.com:emijrp/awesome-awesome.git
+[submodule "sublime-bookmarks"]
+	path = sublime-bookmarks
+	url = git@github.com:dreikanter/sublime-bookmarks.git
+[submodule "awesome-sysadmin"]
+	path = awesome-sysadmin
+	url = git@github.com:kahun/awesome-sysadmin.git
