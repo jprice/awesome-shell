@@ -43,3 +43,9 @@
 [submodule "awesome-courses"]
 	path = awesome-courses
 	url = git@github.com:prakhar1989/awesome-courses.git
+[submodule "free-programming-books"]
+	path = free-programming-books
+	url = git@github.com:vhf/free-programming-books.git
+[submodule "awesome-python"]
+	path = awesome-python
+	url = git@github.com:vinta/awesome-python.git
