@@ -49,3 +49,12 @@
 [submodule "awesome-python"]
 	path = awesome-python
 	url = git@github.com:vinta/awesome-python.git
+[submodule "awesome-remote-job"]
+	path = awesome-remote-job
+	url = git@github.com:lukasz-madon/awesome-remote-job.git
+[submodule "hacker-links"]
+	path = hacker-links
+	url = git@github.com:XjSv/hacker-links.git
+[submodule "sublime"]
+	path = sublime
+	url = git@github.com:JaredCubilla/sublime.git
