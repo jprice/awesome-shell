@@ -37,9 +37,6 @@
 [submodule "android-security-awesome"]
 	path = android-security-awesome
 	url = git@github.com:ashishb/android-security-awesome.git
-[submodule "php-the-right-way"]
-	path = php-the-right-way
-	url = git@github.com:codeguy/php-the-right-way.git
 [submodule "awesome-courses"]
 	path = awesome-courses
 	url = git@github.com:prakhar1989/awesome-courses.git
@@ -58,3 +55,6 @@
 [submodule "sublime"]
 	path = sublime
 	url = git@github.com:JaredCubilla/sublime.git
+[submodule "awesome-laravel"]
+	path = awesome-laravel
+	url = git@github.com:chiraggude/awesome-laravel.git
